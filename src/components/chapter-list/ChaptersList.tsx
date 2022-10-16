@@ -2,12 +2,8 @@ import { Link, useParams } from 'react-router-dom'
 import playIcon from '../../assets/icons/play-7-16.png'
 import { data as dataList } from '../../data/data'
 
-export type Params = {
-    id: string
-}
-
 const ChaptersList = () => {
-  const { id } = useParams<Params>()
+  const { id } = useParams()
   const anime = dataList[Number(id)-1]
   return (
     <div>
@@ -31,7 +27,7 @@ const ChaptersList = () => {
             <div className="mt-5 ">
                 {anime.chapters.map((chapter, i) => {
                     return (
-                    <Link to={`/ver/${anime.id}/chapter/${chapter.id}`}>
+                    <Link to={`/anime-web-clone/ver/${anime.id}/chapter/${chapter.id}`}>
                         <div className="text-lg flex gap-2 hover:bg-[#bc1eac] cursor-pointer rounded-2xl p-3 px-10" key={chapter.id}>
                             <div className="text-[#831a81] w-8">{i+1}</div>
                             <div className="w-full">{chapter.name}</div>

@@ -23,18 +23,18 @@ const ChapterDetail = () => {
               <div className="flex items-center justify-center py-3">
                 <div className="grid grid-cols-3 gap-3">
                   {isPrevChapter && 
-                    <Link to={`/ver/${anime.id}/chapter/${chapter?.id}`} className='bg-[#0084cc] py-1 px-3 rounded-lg'>
+                    <Link to={`/anime-web-clone/ver/${anime.id}/chapter/${chapter?.id}`} className='bg-[#0084cc] py-1 px-3 rounded-lg'>
                       <button>ANTERIOR</button>
                     </Link>
                   }
-                  <Link to={`/ver/${anime.id}`} className=' bg-[#0084cc] py-1 px-3 rounded-lg'>
+                  <Link to={`/anime-web-clone/ver/${anime.id}`} className=' bg-[#0084cc] py-1 px-3 rounded-lg'>
                     <button className='flex items-center justify-center gap-2'>
                       <img src={listIcon}/>
                       LISTA
                     </button>
                   </Link>
                   { isNextChapter && 
-                    <Link to={`/ver/${anime.id}/chapter/${chapter?.id}`} className='bg-[#0084cc] py-1 px-3 rounded-lg'>
+                    <Link to={`/anime-web-clone/ver/${anime.id}/chapter/${chapter?.id}`} className='bg-[#0084cc] py-1 px-3 rounded-lg'>
                       <button>SIGUIENTE</button>
                     </Link>
                   }

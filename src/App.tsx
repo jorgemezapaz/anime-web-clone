@@ -16,9 +16,9 @@ function App() {
       <div className="container mx-auto max-w-5xl p-3 text-lg mt-5">
         <Header/>
         <Routes>
-          <Route path="/" element={<AnimeList />}/>
-          <Route path="/ver/:id" element={<ChaptersList />}/>
-          <Route path="/ver/:animeId/chapter/:chapterId" element={<ChapterDetail/>}/>
+          <Route path="/anime-web-clone/" element={<AnimeList />}/>
+          <Route path="/anime-web-clone/ver/:id" element={<ChaptersList />}/>
+          <Route path="/anime-web-clone/ver/:animeId/chapter/:chapterId" element={<ChapterDetail/>}/>
         </Routes>
       </div>
     </Router>

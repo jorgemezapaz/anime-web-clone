@@ -7,7 +7,7 @@ export type Props = {
 }
 const AnimeCard: React.FC<Props> = ({id, name, cover}) => {
   return (
-    <Link to={`/ver/${id}`}>
+    <Link to={`/anime-web-clone/ver/${id}`}>
       <div className="p-3 text-center cursor-pointer hover:bg-[#bc1eac] rounded-lg ">
           <img src={cover} alt="" className="rounded-md"/>
           <div>{name}</div>
