@@ -1,5 +1,5 @@
 import { data } from '../../data/data'
-import AnimeCard from '../anime-card/animeCard'
+import AnimeCard from '../anime-card/AnimeCard'
 
 const AnimeList = () => {
   return (
