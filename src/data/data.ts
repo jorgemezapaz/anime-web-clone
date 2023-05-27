@@ -23,9 +23,53 @@ export const data = [
                 link: 'https://uqload.org/embed-m2j265590whz.html'
             },
             {
-                id: 3,
+                id: 4,
                 name: 'Capitulo 4 Español Latino HD',
                 link: 'https://uqload.org/embed-m2j265590whz.html'
+            },{
+                id: 5,
+                name: 'Capitulo 5 Español Latino HD',
+                link: 'https://uqload.co/n4l7g63kjebl.html'
+            },
+            {
+                id: 6,
+                name: 'Capitulo 6 Español Latino HD',
+                link: 'https://uqload.co/opd865558ivn.html'
+            },
+            {
+                id: 7,
+                name: 'Capitulo 7 Español Latino HD',
+                link: 'https://uqload.co/m0y5s0hudcap.html'
+            },
+            {
+                id: 8,
+                name: 'Capitulo 8 Español Latino HD',
+                link: 'https://uqload.co/7a8l1c7z85d5.html'
+            },
+            {
+                id: 9,
+                name: 'Capitulo 9 Español Latino HD',
+                link: 'https://uqload.co/ap2j3ehkzzrh.html'
+            },
+            {
+                id: 10,
+                name: 'Capitulo 10 Español Latino HD',
+                link: 'https://uqload.co/x9pua96fxhc9.html'
+            },
+            {
+                id: 11,
+                name: 'Capitulo 11 Español Latino HD',
+                link: 'https://uqload.co/1lax3y08go91.html'
+            },
+            {
+                id: 12,
+                name: 'Capitulo 12 Español Latino HD',
+                link: 'https://uqload.co/42q1eedpnlma.html'
+            },
+            {
+                id: 13,
+                name: 'Capitulo 13 Español Latino HD',
+                link: 'https://uqload.co/1lhetv9i9lzm.html'
             }
         ]
     },
@@ -101,6 +145,11 @@ export const data = [
                 id: 3,
                 name: 'Capitulo 3 Espanol Latino HD',
                 link: 'https://uqload.com/embed-iewzm645j7pc.html'
+            },
+            {
+                id: 4,
+                name: 'Capitulo 4 Espanol Latino HD',
+                link: 'https://tapewithadblock.org/e/myQZkxaGLvUbolG/Boku_No_Hero_Academia_01_Latino%5Bhenaojara.com%5D-1.mp4'
             },
         ]
     },
