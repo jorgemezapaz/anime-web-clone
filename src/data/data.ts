@@ -25,51 +25,51 @@ export const data = [
             {
                 id: 4,
                 name: 'Capitulo 4 Español Latino HD',
-                link: 'https://uqload.org/embed-m2j265590whz.html'
+                link: 'https://uqload.co/embed-n4l7g63kjebl.html'
             },{
                 id: 5,
                 name: 'Capitulo 5 Español Latino HD',
-                link: 'https://uqload.co/n4l7g63kjebl.html'
+                link: 'https://uqload.co/embed-n4l7g63kjebl.html'
             },
             {
                 id: 6,
                 name: 'Capitulo 6 Español Latino HD',
-                link: 'https://uqload.co/opd865558ivn.html'
+                link: 'https://uqload.co/embed-opd865558ivn.html'
             },
             {
                 id: 7,
                 name: 'Capitulo 7 Español Latino HD',
-                link: 'https://uqload.co/m0y5s0hudcap.html'
+                link: 'https://uqload.co/embed-m0y5s0hudcap.html'
             },
             {
                 id: 8,
                 name: 'Capitulo 8 Español Latino HD',
-                link: 'https://uqload.co/7a8l1c7z85d5.html'
+                link: 'https://uqload.co/embed-7a8l1c7z85d5.html'
             },
             {
                 id: 9,
                 name: 'Capitulo 9 Español Latino HD',
-                link: 'https://uqload.co/ap2j3ehkzzrh.html'
+                link: 'https://uqload.co/embed-ap2j3ehkzzrh.html'
             },
             {
                 id: 10,
                 name: 'Capitulo 10 Español Latino HD',
-                link: 'https://uqload.co/x9pua96fxhc9.html'
+                link: 'https://uqload.co/embed-x9pua96fxhc9.html'
             },
             {
                 id: 11,
                 name: 'Capitulo 11 Español Latino HD',
-                link: 'https://uqload.co/1lax3y08go91.html'
+                link: 'https://uqload.co/embed-1lax3y08go91.html'
             },
             {
                 id: 12,
                 name: 'Capitulo 12 Español Latino HD',
-                link: 'https://uqload.co/42q1eedpnlma.html'
+                link: 'https://uqload.co/embed-42q1eedpnlma.html'
             },
             {
                 id: 13,
                 name: 'Capitulo 13 Español Latino HD',
-                link: 'https://uqload.co/1lhetv9i9lzm.html'
+                link: 'https://uqload.co/embed-1lhetv9i9lzm.html'
             }
         ]
     },
@@ -95,6 +95,71 @@ export const data = [
                 id: 3,
                 name: 'Capitulo 3 Espanol Latino HD',
                 link: 'https://uqload.com/embed-iewzm645j7pc.html'
+            },
+            {
+                id: 4,
+                name: 'Capitulo 4 Espanol Latino HD',
+                link: 'https://uqload.co/embed-u4uaxfgex8gt.html'
+            },
+            {
+                id: 5,
+                name: 'Capitulo 5 Espanol Latino HD',
+                link: 'https://uqload.co/embed-wgmb5c0puonp.html'
+            },
+            {
+                id: 6,
+                name: 'Capitulo 6 Espanol Latino HD',
+                link: 'https://uqload.co/embed-7cit92m4n9vt.html'
+            },
+            {
+                id: 7,
+                name: 'Capitulo 7 Espanol Latino HD',
+                link: 'https://uqload.co/embed-kzpj54gvey3a.html'
+            },
+            {
+                id: 8,
+                name: 'Capitulo 8 Espanol Latino HD',
+                link: 'https://uqload.co/embed-666hfiqh8xck.html'
+            },
+            {
+                id: 9,
+                name: 'Capitulo 9 Espanol Latino HD',
+                link: 'https://uqload.co/embed-a7u0vrfhho9b.html'
+            },
+            {
+                id: 10,
+                name: 'Capitulo 10 Espanol Latino HD',
+                link: 'https://uqload.co/embed-muv4x07ekaz0.html'
+            },
+            {
+                id: 11,
+                name: 'Capitulo 11 Espanol Latino HD',
+                link: 'https://uqload.co/embed-b4qz2alfoja6.html'
+            },
+            {
+                id: 12,
+                name: 'Capitulo 12 Espanol Latino HD',
+                link: 'https://uqload.co/embed-9cmpzxs03e1n.html'
+            },
+            {
+                id: 13,
+                name: 'Capitulo 13 Espanol Latino HD',
+                link: 'https://uqload.co/embed-60j0n1l84rxu.html'
+            },
+            {
+                id: 14,
+                name: 'Capitulo 14 Espanol Latino HD',
+                link: 'https://uqload.co/embed-zbobv05dce16.html'
+            },
+            {
+                id: 15,
+                name: 'Capitulo 15 Espanol Latino HD',
+                link: 'https://uqload.co/embed-f52hyv5prs9a.html'
+            },
+            {
+                id: 16,
+                name: 'Capitulo 16 Espanol Latino HD',
+                link: 'https://uqload.co/embed-5ez5pasx1z8o.html'
             },
         ]
     },
